@@ -1,6 +1,6 @@
-# id3afactory.github.io
+# 🧠 The Idea Factory
 
-🧠 The Idea Factory
+
 The Idea Factory is your launchpad for innovation. Whether you're gearing up for a hackathon or just exploring your next big project, this platform helps you generate, discover, and collaborate on tech ideas. Start with a spark—leave with a full-fledged project.
 
 🚀 What is The Idea Factory?
